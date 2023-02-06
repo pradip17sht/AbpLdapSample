@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w21rEoNwCckPpBa1nf5yQ67bUEP7HP5cbEcDQtyOT2j80h4a89V6yppTCTh/Agrm7bEgPaja8T0k1KkBUKbOPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Downloads\\AbpLdapSample\\AbpLdapSample\\AbpLdapSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\ldapfornet\\2.7.11\\ldapfornet.2.7.11.nupkg.sha512"
+  ],
+  "logs": []
+}

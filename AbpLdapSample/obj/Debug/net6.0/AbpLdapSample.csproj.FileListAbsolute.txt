@@ -1,0 +1,17 @@
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\bin\Debug\net6.0\AbpLdapSample.exe
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\bin\Debug\net6.0\AbpLdapSample.deps.json
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\bin\Debug\net6.0\AbpLdapSample.runtimeconfig.json
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\bin\Debug\net6.0\AbpLdapSample.dll
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\bin\Debug\net6.0\ref\AbpLdapSample.dll
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\bin\Debug\net6.0\AbpLdapSample.pdb
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\bin\Debug\net6.0\LdapForNet.dll
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\obj\Debug\net6.0\AbpLdapSample.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\obj\Debug\net6.0\AbpLdapSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\obj\Debug\net6.0\AbpLdapSample.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\obj\Debug\net6.0\AbpLdapSample.AssemblyInfo.cs
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\obj\Debug\net6.0\AbpLdapSample.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\obj\Debug\net6.0\AbpLdapSample.csproj.CopyComplete
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\obj\Debug\net6.0\AbpLdapSample.dll
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\obj\Debug\net6.0\ref\AbpLdapSample.dll
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\obj\Debug\net6.0\AbpLdapSample.pdb
+C:\Users\DELL\Downloads\AbpLdapSample\AbpLdapSample\obj\Debug\net6.0\AbpLdapSample.genruntimeconfig.cache
